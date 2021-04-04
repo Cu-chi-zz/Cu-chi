@@ -7,12 +7,7 @@
 
 - ⚡ Fun fact **I took 3 hours to find an sql request to make a top 3...**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucldfcby3xvotsmhr-e0u32w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucldfcby3xvotsmhr-e0u32w" height="30" width="40" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cu-chi&show_icons=true&locale=en&layout=compact" alt="cu-chi" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cu-chi&show_icons=true&locale=en&layout=compact" alt="cu-chi" /></p>
