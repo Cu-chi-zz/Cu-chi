@@ -7,9 +7,9 @@
 
 - ⚡ Fun fact **I took 3 hours to find an sql request to make a top 3...**
 
-<p align="middle">
-<a href="https://github.com/Cu-chi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cu-chi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cu-chi&layout=compact&langs_count=8&theme=react"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Cu-chi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cu-chi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cu-chi&layout=compact&langs_count=8&theme=dark"/>
+  </a>
 </p>
