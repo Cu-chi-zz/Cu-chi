@@ -7,4 +7,4 @@
 
 - ⚡ Fun fact **I took 3 hours to find an sql request to make a top 3...**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cu-chi&show_icons=true&locale=en&layout=compact" alt="cu-chi" /></p> <p><img  src="https://github-readme-stats.vercel.app/api?username=cu-chi&show_icons=true&locale=en" alt="cu-chi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cu-chi&show_icons=true&locale=en&layout=compact" alt="cu-chi" /><img  src="https://github-readme-stats.vercel.app/api?username=cu-chi&show_icons=true&locale=en" alt="cu-chi" /></p>
