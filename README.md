@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **cuchii.pro@gmail.com** / discord: `! Cuchi'#3120`
 
-- ⚡ Fun fact **I took 3 hours to find an sql request to make a top 3...**
+- ⚡ Currently working on a [game](https://cu-chi.github.io/ReachTheEnd)
 
 <p align="center">
   <a href="https://github.com/Cu-chi">
