@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-4/420304554198958090.png" alt="cu-chi" /> </p>
 <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cu-chi&theme=dark&hide_border=true"/> </p>
 
-- 📫 How to reach me **cuchii.pro@gmail.com** / discord: `! Cuchi'#3120`
+- 📫 How to reach me: **cuchii.pro@gmail.com** or on discord.
 
-- ⚡ Currently working on a [game](https://cu-chi.github.io/ReachTheEnd)
+- ⚡ Currently working on a [game](https://cu-chi.github.io/ReachTheEnd) ([repo](https://github.com/Cu-chi/ReachTheEnd))
 
 <p align="center">
   <a href="https://github.com/Cu-chi">
