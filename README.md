@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cu-chi/ReachTheEnd/main/docs/src/rte-white-logo-192x192.png" width="64" height="64" alt="Cuchi's logo"/>
+  <img src="https://avatars.githubusercontent.com/u/42467470?v=4" width="64" height="64" alt="Cuchi's logo"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Cuchi</h1>
