@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/42467470?v=4" width="64" height="64" alt="Cuchi's logo"/>
+  <img src="https://user-images.githubusercontent.com/42467470/139774174-7aaa9e3a-077b-40cf-964f-12d05a843948.jpg" alt="Cuchi's banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Cuchi</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cu-chi&label=Profile%20views&color=0e75b6&style=flat" alt="cu-chi" /> </p>
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/420304554198958090.png" alt="cu-chi" /> </p>
+<!--<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/420304554198958090.png" alt="cu-chi" /> </p>-->
 <p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Cu-chi&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
 
 - 📫 How to reach me: **cuchii.pro@gmail.com** or on discord.
