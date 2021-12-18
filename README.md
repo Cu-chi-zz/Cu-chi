@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **cuchii.pro@gmail.com** or on discord.
 
-- ⚡ Current projects : [game](https://cu-chi.github.io/ReachTheEnd) ([repo](https://github.com/Cu-chi/ReachTheEnd))
+- ⚡ Working on various projects
 
 <p align="center">
   <a href="https://github.com/Cu-chi">
