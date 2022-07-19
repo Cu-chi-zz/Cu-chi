@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Cuchi</h1>
-<h2 align="center">This is my old account since I lost my 2FA, click <a>here</a> to visit my new one</h2>
+<h2 align="center">This is my old account since I lost my 2FA, click <a href="https://github.com/Cu-chi/">here</a> to visit my new one</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cu-chi&label=Profile%20views&color=0e75b6&style=flat" alt="cu-chi" /> </p>
 <!--<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/420304554198958090.png" alt="cu-chi" /> </p>-->
